@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Data Collection}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Model Structure}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Model Training}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Model Interpretation}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{ReboundNet Evaluation Metrics}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Team Evaluation}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Player Evaluation}{section.3}% 9
